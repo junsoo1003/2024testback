@@ -29,4 +29,4 @@ jobs:
 
       - name: github secret
         run: |
-          echo ${{secrets.SECRET_NAME}}
+          echo ${{secrets.MY_HOBBY}}
